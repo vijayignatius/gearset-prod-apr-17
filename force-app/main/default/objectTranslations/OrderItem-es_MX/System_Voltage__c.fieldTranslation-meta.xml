@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- System Voltage --></label>
+        <name>System_Voltage__c</name>
+        <picklistValues>
+            <masterLabel>120V</masterLabel>
+            <translation><!-- 120V --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>240V</masterLabel>
+            <translation><!-- 240V --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>
