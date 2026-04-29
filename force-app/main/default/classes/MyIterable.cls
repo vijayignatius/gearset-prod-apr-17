@@ -8,6 +8,7 @@ public class MyIterable implements Iterable<String> {
         System.debug('strings: ' + strings);
         System.debug('strings.size(): ' + strings.size());
         System.debug('commiting from org to git using Pipleline Branching');
+        System.debug('commiting to INT');
 
 
 
