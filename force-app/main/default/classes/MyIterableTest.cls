@@ -10,6 +10,8 @@ private class MyIterableTest {
             System.debug (str);
         }
         System.assert(true,true);
+        System.debug('commiting from org to git using Pipleline Branching');
+
    
     }
 
